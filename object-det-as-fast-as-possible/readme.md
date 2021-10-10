@@ -1,3 +1,7 @@
+Testing out [detecto](https://github.com/alankbi/detecto) - "a Python package that allows you to build fully-functioning computer vision and object detection models with just 5 lines of code"
+
+Disclaimer: In the title, by fast - I meant easy training and no frills data set up, NOT low latency
+
 # Installation:
 
 pip install -r requirements.txt
