@@ -16,5 +16,5 @@ python inference.py
 
 # Notes:
 
-Model architecture - Faster R-CNN Resnet 50 
+Model architecture - Faster R-CNN Resnet 50    
 Data - [Grocery Dataset](https://github.com/gulvarol/grocerydataset)  
