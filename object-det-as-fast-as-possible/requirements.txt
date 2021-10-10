@@ -1,0 +1,9 @@
+detecto
+git+https://github.com/bes-dev/mean_average_precision.git
+torch
+torchvision
+imutils
+scipy
+matplotlib
+numpy
+pandas
